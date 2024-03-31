@@ -1,1 +1,1 @@
-Testing Java files with Mockito and checking the coverage with Jacoco.
+Testing Java files with JUnit and checking the coverage with Jacoco.
